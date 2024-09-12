@@ -65,3 +65,5 @@ Server-Side Timeouts: Use setSoTimeout(int timeout) on the client socket to limi
 Client-Side Timeouts: Use setSoTimeout(int timeout) on the client socket to limit the time the client waits for a response from the server.
 Handling Timeouts Gracefully: When a timeout o
 These timeout mechanisms ensure that your server and client don't hang indefinitely waiting for communication, improving the reliability and responsiveness of your system.
+
+
